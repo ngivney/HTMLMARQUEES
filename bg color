@@ -1,0 +1,2 @@
+You can also get background color for your marquee by simply adding bgcolor attribute.
+Example: <marquee bgcolor = "blue">Text</marquee>
